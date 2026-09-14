@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a9c9ff" />
+      <stop offset="100%" stop-color="#2c4a8a" />
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="20" fill="url(#clay)" />
+  <rect x="6" y="6" width="52" height="26" rx="18" fill="url(#soft)" />
+  <!-- yumshoq divan silueti -->
+  <rect x="17" y="26" width="30" height="11" rx="5.5" fill="#eaf1ff" />
+  <rect x="15" y="21" width="10" height="12" rx="5" fill="#cddfff" />
+  <rect x="39" y="21" width="10" height="12" rx="5" fill="#cddfff" />
+  <rect x="19" y="30" width="26" height="8" rx="4" fill="#f6ecd9" />
+  <circle cx="22" cy="42" r="3" fill="#e6d4b4" />
+  <circle cx="42" cy="42" r="3" fill="#e6d4b4" />
+</svg>
