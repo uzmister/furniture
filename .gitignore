@@ -1,0 +1,11 @@
+node_modules
+dist
+.smoke
+*.tsbuildinfo
+*.local
+.DS_Store
+.vite
+*.log
+.env
+.env.*
+!.env.example
